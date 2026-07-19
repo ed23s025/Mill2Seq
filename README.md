@@ -58,7 +58,7 @@ python scripts/infer_end_to_end.py --step_file examples/part.step --checkpoint c
 ```bibtex
 @article{mill2seq2026,
   title   = {Mill2Seq - A deep learning-based approach for Milling Operation Sequence Generation},
-  author  = {[Author names]},
+  author  = {Satyam Kumar Verma},
   journal = {Computers \& Graphics},
   year    = {2026}
 }
